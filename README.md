@@ -2,7 +2,7 @@
 A simple image classifier using keras and tensorflow  
 
 # Description  
-used CNNs to make a deep learning model which classifies an image as a cat or a dog. The model was trained with nearly 25000 images of cats and dogs and has 83% validation accuracy with slight overfitting.    
+used CNNs to make a deep learning model which classifies an image as a cat or a dog. The model was trained with nearly 25000 images of cats and dogs and has 83.6% accuracy on the testing set with slight overfitting.    
 images used for training the model were taken from kaggle dataset - https://www.kaggle.com/competitions/dogs-vs-cats/data.     
 Also used streamlit library to deploy the deep learning model in a website which allows the user to upload  
 a JPG image of a cat or a dog and predicts the outcome.
